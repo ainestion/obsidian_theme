@@ -1,0 +1,4 @@
+.bases-embed > .bases-view { 
+    max-height: 500px; 
+    overflow-y: auto; 
+}
